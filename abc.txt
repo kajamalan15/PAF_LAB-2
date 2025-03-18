@@ -1,0 +1,3 @@
+Usage: git add <filename> (to add a specific file) 
+• Usage: git add --all (to add all added/ modified/ deleted files in the 
+repository) 
